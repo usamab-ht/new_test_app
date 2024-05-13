@@ -1,0 +1,8 @@
+Github is a Version Control System
+You can say it as a cloud storage using which multiple users can collab to build a software
+
+Multiple teams can collab to work on same code using git and Github
+
+Github has different repositories where you can store your projects
+Each repository has a branch. A branch is an individual repo belonging to particular user 
+A user can change the code in its branch and push the code to main branch.
